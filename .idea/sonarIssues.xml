@@ -78,7 +78,77 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/abstraction/Moveable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/abstraction/Printer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/abstraction/Runnable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/interfaces/Animal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/interfaces/BlackFridayDiscount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/interfaces/Discount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/interfaces/FirstLoginDiscount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/interfaces/Fish.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/interfaces/Human.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/interfaces/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/interfaces/Moveable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/interfaces/Runnable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/interfaces/SPecie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/interfaces/Specie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/interfaces/Speice.java">
           <value>
             <set />
           </value>

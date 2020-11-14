@@ -4,6 +4,7 @@ public abstract class Discount {
 
     // Abstract sınıflardan new keywordü ile nesne oluşturamazsınız.
     // Abstract sınıfları kullanabilmek için en az bir implementasyonun olması gerekiyor.
+    // Abstract sınıflarda public, private, protected erişim belirteçleri kullanılabilir.
     // Abstract sınıflar içerisinde abstract methodlar olabildiği gibi ( gövdesiz methodlar ) gövdeli metotlarda bulunabilir.
     // Interface ile abstrct sınıflar arasındaki fark interface sınıflarda gövde asla ( default dışında ) bulunmaz
 
