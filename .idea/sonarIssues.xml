@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../documents/quarkus/quarkus/src/main/java/com/brnbyk/quarkus/util/AppUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/arrayexamples/ArrayExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/classes/Human.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/classes/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/classes/Student.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/date/DateExamples.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/dateexamples/DateExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/Human.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/Student.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/abstraction/BlackFridayDiscount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/abstraction/DefaultDiscount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/abstraction/Discount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/abstraction/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/abstraction/Printer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/multipleinheritance/Empleyee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/multipleinheritance/Human.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/multipleinheritance/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/inheritanceexamples/multipleinheritance/Manager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
