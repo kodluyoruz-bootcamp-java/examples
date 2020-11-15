@@ -7,10 +7,13 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-*/.idea
+*/.idea/
 # Generated files
 .idea/**/contentModel.xml
-
+./.idea/sonarlint/
+.idea/**
+.idea/sonarIssues.xml
+.idea/sonarlint
 # Sensitive or high-churn files
 .idea/**/dataSources/
 .idea/**/dataSources.ids

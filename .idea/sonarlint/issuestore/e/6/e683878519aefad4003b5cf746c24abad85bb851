@@ -1,27 +1,26 @@
 
-Y
-java:S1854
-"<Remove this useless assignment to local variable "intArray".(­ö°´8Ö¨é«Ü.
-e
-java:S1854"CRemove this useless assignment to local variable "firstNineNumber".(´Éß†ÿÿÿÿÿ8Öã«Ü.
-U
-java:S1197"8Move the array designator from the variable to the type.(¿È‡µ8¡ƒÖ«Ü.
+_
+java:S1854"=Remove this useless assignment to local variable "intArray2".( ’÷ïıÿÿÿÿ8¡ƒÖ«Ü.
+Q
+java:S1481"/Remove this unused "longArray2" local variable.( ±ìêûÿÿÿÿ8¥¦Ô«Ü.
+V
+java:S1481"4Remove this unused "firstNineNumber" local variable.(´Éß†ÿÿÿÿÿ8Öã«Ü.
 J
 java:S1481
 "-Remove this unused "intArray" local variable.(­ö°´8Ö¨é«Ü.
-R
-java:S1481"5Remove this unused "firstNineNumber2" local variable.(Ø…µÌ8Šºã«Ü.
+e
+java:S1854"CRemove this useless assignment to local variable "firstNineNumber".(´Éß†ÿÿÿÿÿ8Öã«Ü.
+Z
+java:S1197"8Move the array designator from the variable to the type.( ’÷ïıÿÿÿÿ8¡ƒÖ«Ü.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Š®ŠŒûÿÿÿÿ8ŒîÈ­Ü.
+Y
+java:S1854
+"<Remove this useless assignment to local variable "intArray".(­ö°´8Ö¨é«Ü.
 Z
 java:S1197"8Move the array designator from the variable to the type.( ±ìêûÿÿÿÿ8¥¦Ô«Ü.
-V
-java:S1481"4Remove this unused "firstNineNumber" local variable.(´Éß†ÿÿÿÿÿ8Öã«Ü.
-K
-java:S1481".Remove this unused "intArray2" local variable.(¿È‡µ8¡ƒÖ«Ü.
-Z
-java:S1854"=Remove this useless assignment to local variable "intArray2".(¿È‡µ8¡ƒÖ«Ü.
+R
+java:S1481"5Remove this unused "firstNineNumber2" local variable.(Ø…µÌ8Šºã«Ü.
 a
 java:S1854"DRemove this useless assignment to local variable "firstNineNumber2".(Ø…µÌ8¨ÌÙ«Ü.
-Q
-java:S1481"/Remove this unused "longArray2" local variable.( ±ìêûÿÿÿÿ8¥¦Ô«Ü.
 P
-java:S1481".Remove this unused "longArray" local variable.(‹¼Åøÿÿÿÿ8ºŞô«Ü.
+java:S1481".Remove this unused "intArray2" local variable.( ’÷ïıÿÿÿÿ8¡ƒÖ«Ü.
