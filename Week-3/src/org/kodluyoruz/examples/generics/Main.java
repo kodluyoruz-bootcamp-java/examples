@@ -1,6 +1,9 @@
 package org.kodluyoruz.examples.generics;
 
 
+import org.kodluyoruz.examples.generics.generic.impl.NumberStack;
+import org.kodluyoruz.examples.generics.generic.impl.StringStack;
+
 import java.util.ArrayList;
 
 public class Main {
@@ -11,6 +14,9 @@ public class Main {
         integerStack.push(1);
         integerStack.push(2);
         integerStack.push(3);
+
+        StringStack<String> stringStack = new StringStack(10);
+        NumberStack<Long> numberStack = new NumberStack<>(10);
 
         integerStack.pop();
         integerStack.pop();
@@ -34,6 +40,12 @@ public class Main {
 
         int numberOfNames = GenericMethodExamples.countAllRepeatedItems(nameList, 1.00);
         System.out.println("NSame names: " + numberOfNames);
+
+        ArrayList<Object> stList = new ArrayList<>();
+        stList.add(1L);
+        stList.add(2L);
+        stList.add(3L);
+        GenericMethodExamples.countAllRepeatedItemsWithRestricted(stList, "test");
 
     }
 }

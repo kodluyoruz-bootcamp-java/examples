@@ -1,6 +1,8 @@
 package org.kodluyoruz.examples.generics;
 
 
+import org.kodluyoruz.examples.generics.intefaces.GenericDataList;
+
 /**
  * T -> Type
  * E -> Element

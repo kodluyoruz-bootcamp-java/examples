@@ -1,4 +1,6 @@
-package org.kodluyoruz.examples.generics;
+package org.kodluyoruz.examples.generics.generic.impl;
+
+import org.kodluyoruz.examples.generics.intefaces.GenericDataList;
 
 public class Queue<T> implements GenericDataList<T> {
 

@@ -1,5 +1,7 @@
 package org.kodluyoruz.examples.generics;
 
+import org.kodluyoruz.examples.generics.intefaces.Converter;
+
 public class CarToTaxiConverter implements Converter<Car, Taxi> {
 
     @Override
