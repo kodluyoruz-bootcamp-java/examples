@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$USER_HOME$/Downloads/first/src/org/koud/example/q1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../documents/quarkus/quarkus/src/main/java/com/brnbyk/quarkus/util/AppUtil.java">
           <value>
             <set />
@@ -269,6 +274,61 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/Week-2/src/org/kodluyoruz/examples/overleadingexamples/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-3/src/org/kodluyoruz/examples/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../odev-repolari/week-1/hafta-1-odev-1-abdurrahman2x/com/kodluyoruz/abdurrahman/Araba.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../odev-repolari/week-1/hafta-1-odev-1-abdurrahman2x/com/kodluyoruz/abdurrahman/SayiDondurme.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../odev-repolari/week-1/hafta-1-odev-1-ugurarabaci/FirstWeekHW/src/Examples/example1/FirstExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../odev-repolari/week-1/hafta-1-odev-1-ugurarabaci/FirstWeekHW/src/Examples/example2/Car.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../odev-repolari/week-1/hafta-1-odev-1-ugurarabaci/FirstWeekHW/src/Examples/example2/SecondExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../odev-repolari/week-1/hafta-1-odev-1-ugurarabaci/FirstWeekHW/src/Examples/example3/ThirdExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../odev-repolari/week-1/hafta-1-odev-1-ugurarabaci/FirstWeekHW/src/Examples/example4/FourthExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../odev-repolari/week-1/hafta-1-odev-1-utkukilincci/birinci_hafta_odev/src/soru_1/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../odev-repolari/week-1/hafta-1-odev-1-utkukilincci/birinci_hafta_odev/src/soru_2/Araba.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../odev-repolari/week-1/hafta-1-odev-1-utkukilincci/birinci_hafta_odev/src/soru_3/Kontrol.java">
           <value>
             <set />
           </value>

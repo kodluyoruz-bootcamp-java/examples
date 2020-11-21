@@ -19,7 +19,7 @@ public class Main {
             if (exception instanceof ClassNotFoundException) {
                 System.out.println("Böyle bir class bulunamadi..");
             }
-        }
+        }ls
     }*/
 
     public static void main(String[] args) {
