@@ -3,7 +3,7 @@ package org.kodluyoruz.examples.lists;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class ExampleArrayList {
 
     public static void main(String[] args) {
         List<String> customerList = new ArrayList<>();
@@ -29,7 +29,7 @@ public class Main {
             System.out.println(s);
         }
 
-        List<String> additionalCustomerList = new ArrayList<>();
+        List<String> additionalCustomerList = new java.util.ArrayList<>();
         additionalCustomerList.add("SpaceX");
 
 
@@ -46,7 +46,7 @@ public class Main {
             System.out.println(s);
         }
 
-        List<String> removeCustomerList = new ArrayList<>();
+        List<String> removeCustomerList = new java.util.ArrayList<>();
         removeCustomerList.add("Apple");
         removeCustomerList.add("Amazon");
 
