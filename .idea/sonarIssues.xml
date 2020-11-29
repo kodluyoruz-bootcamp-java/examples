@@ -343,6 +343,71 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/maps/MyThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/multithreading/Customer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/multithreading/CustomerDepositOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/multithreading/CustomerOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/multithreading/CustomerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/multithreading/CustomerWithdrawOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/multithreading/DepositCustomer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/multithreading/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/multithreading/MyRunnable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/multithreading/MyThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/multithreading/NumberMatic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/multithreading/SimpleCounter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/multithreading/SimpleRunnable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/sets/ExampleSets.java">
           <value>
             <set />
