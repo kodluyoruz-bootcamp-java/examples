@@ -308,7 +308,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/lists/ExamplesComparable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/lists/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/lists/Product.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/lists/ProductPriceComparator.java">
           <value>
             <set />
           </value>
