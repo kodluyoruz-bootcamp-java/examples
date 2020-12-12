@@ -3,6 +3,26 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$USER_HOME$/Downloads/examples/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/examples/src/main/java/org/kodluyoruz/examples/SpringKodluyoruzExampleApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/examples/src/main/java/org/kodluyoruz/examples/beans/ProductService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/examples/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Downloads/first/src/org/koud/example/q1.java">
           <value>
             <set />
@@ -283,6 +303,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Week-3/src/org/kodluyoruz/examples/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/Customer.java">
           <value>
             <set />
@@ -379,6 +404,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/multithreading/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-4/src/org/kodluyoruz/examples/multithreading/MyCallable.java">
           <value>
             <set />
           </value>

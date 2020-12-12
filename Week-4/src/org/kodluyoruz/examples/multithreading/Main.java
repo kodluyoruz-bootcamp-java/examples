@@ -13,18 +13,18 @@ public class Main {
          * 2- Runnable implementation
          */
         /** Runnable runnable = new SimpleRunnable();
-        Thread t1 = new Thread(runnable);
-        Thread t2 = new Thread(runnable);
-        Thread t3 = new Thread(runnable);
-        Thread t4 = new Thread(runnable);
-        Thread.activeCount();
+         Thread t1 = new Thread(runnable);
+         Thread t2 = new Thread(runnable);
+         Thread t3 = new Thread(runnable);
+         Thread t4 = new Thread(runnable);
+         Thread.activeCount();
 
-        t1.start();
-        t2.start();
-        t3.start();
-        t4.start(); **/
+         t1.start();
+         t2.start();
+         t3.start();
+         t4.start(); **/
 
-        ExecutorService executorService = Executors.newFixedThreadPool(10);
+        /*ExecutorService executorService = Executors.newFixedThreadPool(10);
 
         Runnable runnable = new SimpleRunnable();
 
@@ -45,6 +45,28 @@ public class Main {
         executorService.execute(runnable);
 
         executorService.shutdown();
+
+        MyThread thread = new MyThread();
+        thread.start();*/
+        System.out.printf("Running in %s %s ", Thread.currentThread().getName(), "Thread \n");
+        System.out.println("My name is Baran");
+        System.out.printf("Running in %s %s ", Thread.currentThread().getName(), "Thread \n");
+        System.out.println("My name is Baran");
+        System.out.printf("Running in %s %s ", Thread.currentThread().getName(), "Thread \n");
+        System.out.println("My name is Baran");
+        System.out.printf("Running in %s %s ", Thread.currentThread().getName(), "Thread \n");
+        System.out.println("My name is Baran");
+
+        SimpleRunnable simpleRunnable = new SimpleRunnable();
+        Thread t = new Thread(simpleRunnable);
+        Thread t2 = new Thread(simpleRunnable);
+        Thread t3 = new Thread(simpleRunnable);
+        Thread t4 = new Thread(simpleRunnable);
+
+        t.start();
+        t2.start();
+        t3.start();
+        t4.start();
 
     }
 }
