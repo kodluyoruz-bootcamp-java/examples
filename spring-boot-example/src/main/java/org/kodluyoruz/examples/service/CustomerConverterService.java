@@ -1,4 +1,4 @@
-package org.kodluyoruz.examples.service.impl;
+package org.kodluyoruz.examples.service;
 
 import org.kodluyoruz.examples.model.dao.Customer;
 import org.kodluyoruz.examples.model.request.CustomerDto;

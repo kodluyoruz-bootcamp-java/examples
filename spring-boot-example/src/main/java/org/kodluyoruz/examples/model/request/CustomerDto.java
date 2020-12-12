@@ -5,10 +5,12 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class CreateCustomerRequest {
+public class CustomerDto {
 
+    private Long id;
     private String firstName;
     private String middleName;
     private String lastName;
     private Double balance;
+    private boolean isActive;
 }
