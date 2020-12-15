@@ -22,7 +22,7 @@ public class LocalDB {
     }
 
     private static void createCustomers() {
-        Customer customer1 = new Customer(1L, "Ahmet",
+        /**Customer customer1 = new Customer(1L, "Ahmet",
                 "", "Cakil", 0.00, true);
         Customer customer2 = new Customer(2L, "Mehmet",
                 "", "Cakil", 0.00, true);
@@ -30,7 +30,7 @@ public class LocalDB {
                 "", "Cakil", 0.00, true);
         CUSTOMERS.add(customer1);
         CUSTOMERS.add(customer2);
-        CUSTOMERS.add(customer3);
+        CUSTOMERS.add(customer3);**/
     }
 
     public static Collection<Customer> getAllCustomers() {

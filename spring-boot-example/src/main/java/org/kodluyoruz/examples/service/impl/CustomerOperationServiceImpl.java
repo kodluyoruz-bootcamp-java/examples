@@ -10,7 +10,6 @@ import org.kodluyoruz.examples.service.CustomerOperationService;
 import org.springframework.stereotype.Service;
 
 import java.util.Collection;
-import java.util.Random;
 
 @Slf4j
 @Service
@@ -28,7 +27,6 @@ public class CustomerOperationServiceImpl implements CustomerOperationService {
         // customer check balance.
         log.info("Created a new customer to save the DB");
         Customer customer = customerConverterService.toCustomer(customerDto);
-        customer.setId(new Random(1).nextLong());
         return customerOperationRepository.save(customer);
     }
 
@@ -45,11 +43,6 @@ public class CustomerOperationServiceImpl implements CustomerOperationService {
 
     @Override
     public Collection<Customer> getAllActiveCustomers() {
-        Collection<Customer> allActiveCustomers = customerOperationRepository.
-                findAllActiveCustomers();
-        if (allActiveCustomers.isEmpty()) {
-            throw new RuntimeException("Customers not found");
-        }
-        return allActiveCustomers;
+        return customerOperationRepository.findAllActiveCustomers();
     }
 }
