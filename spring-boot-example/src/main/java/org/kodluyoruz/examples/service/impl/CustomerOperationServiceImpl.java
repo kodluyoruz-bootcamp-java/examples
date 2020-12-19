@@ -3,6 +3,7 @@ package org.kodluyoruz.examples.service.impl;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.kodluyoruz.examples.dao.CustomerOperationRepository;
+import org.kodluyoruz.examples.exceptions.CustomerNotFoundException;
 import org.kodluyoruz.examples.model.dao.Customer;
 import org.kodluyoruz.examples.model.request.CustomerDto;
 import org.kodluyoruz.examples.service.CustomerConverterService;
@@ -32,6 +33,8 @@ public class CustomerOperationServiceImpl implements CustomerOperationService {
 
     @Override
     public Customer update(CustomerDto customerDto) {
+        // customer var mi yok mu kontrolü var, olmadiginde exception firlatiyoruz.
+
         Customer customer = customerConverterService.toCustomer(customerDto);
         return customerOperationRepository.update(customer);
     }
@@ -43,6 +46,7 @@ public class CustomerOperationServiceImpl implements CustomerOperationService {
 
     @Override
     public Collection<Customer> getAllActiveCustomers() {
-        return customerOperationRepository.findAllActiveCustomers();
+        throw new CustomerNotFoundException("Kullanici bulunamadi");
+        /** return customerOperationRepository.findAllActiveCustomers();**/
     }
 }
