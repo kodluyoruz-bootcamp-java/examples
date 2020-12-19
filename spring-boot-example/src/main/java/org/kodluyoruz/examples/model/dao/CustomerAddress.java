@@ -1,5 +1,6 @@
 package org.kodluyoruz.examples.model.dao;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
@@ -18,6 +19,7 @@ public class CustomerAddress {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     @ManyToOne
+    @JsonBackReference
     private Customer customer;
 
     private String country;

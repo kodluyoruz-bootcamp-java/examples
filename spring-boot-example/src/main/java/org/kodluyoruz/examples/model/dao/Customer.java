@@ -1,5 +1,6 @@
 package org.kodluyoruz.examples.model.dao;
 
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 import lombok.*;
 
 import javax.persistence.*;
@@ -32,7 +33,8 @@ public class Customer {
     @Temporal(TemporalType.DATE)
     private Date cratedDate;
 
-    @OneToMany(mappedBy = "customer")
+    @JsonManagedReference
+    @OneToMany(mappedBy = "customer", cascade = {CascadeType.MERGE, CascadeType.PERSIST, CascadeType.REMOVE}, orphanRemoval = true)
     private Collection<CustomerAddress> customerAddresses;
 
 }
