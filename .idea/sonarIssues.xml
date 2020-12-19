@@ -453,7 +453,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/proxy/Ma.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/proxy/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/proxy/ProxyServlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/proxy/RealServlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/proxy/Servlet.java">
           <value>
             <set />
           </value>
