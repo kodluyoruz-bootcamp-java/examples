@@ -448,6 +448,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/proxy/ConnectionFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/proxy/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/test-module/src/org/kodluyoruz/examples/Test.java">
           <value>
             <set />
