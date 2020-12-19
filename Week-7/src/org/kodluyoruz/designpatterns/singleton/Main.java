@@ -1,4 +1,4 @@
-package org.kodluyoruz.designpatterns.proxy;
+package org.kodluyoruz.designpatterns.singleton;
 
 public class Main {
     public static void main(String[] args) {

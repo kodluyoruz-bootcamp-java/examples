@@ -458,6 +458,51 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/singleton/ConnectionFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/singleton/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/strategy/Basket.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/strategy/CashPayment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/strategy/CreditCardPayment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/strategy/Item.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/strategy/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/strategy/Payment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-7/src/org/kodluyoruz/designpatterns/strategy/PaypalPayment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/test-module/src/org/kodluyoruz/examples/Test.java">
           <value>
             <set />
